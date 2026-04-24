@@ -1,9 +1,7 @@
-package yuri_Lindo;
-
+package atvidade2;
 import java.util.Scanner;
 
-public class Exerc1Rev
-{
+public class Ex3 {
 
 	public static void main(String[] args) {
 
