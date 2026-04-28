@@ -2,6 +2,7 @@ package relobjetoexerc;
 
 
 public class Exercicio1 {
+ private double altura ;
  
  private double largura; 
  
